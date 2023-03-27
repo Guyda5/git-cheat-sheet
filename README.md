@@ -1,4 +1,3 @@
-# git-cheat-sheet
 Git Cheat Sheet
 This cheat sheet provides a quick reference guide for common Git commands.
 
